@@ -98,7 +98,7 @@ p{
     padding-top: 40px;  
 }
 
-input {
+.input {
     width: 100%;
     border-bottom: 1px solid gray;
     display: inline-block;
