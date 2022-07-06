@@ -51,7 +51,7 @@ p{
 /* Head Design section */
 
 .header-section{
-    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0)100%),url(images/header-donate.png);
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0)100%),url(images/header-donate.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 230px 0px;
