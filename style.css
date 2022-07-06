@@ -112,3 +112,31 @@ input {
     margin-left: 40%;
 }
 /*Third section design */
+.Third-section{
+    margin-top: 100px;
+}
+.third_child_2{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.third_child_row{
+    box-sizing: border-box;
+    width: 400px;
+    height: 400px;
+    background: #4F9DA61A;
+    border-radius: 5px;
+    padding: 70px 30px;
+    margin: 15px;
+}
+.third_child_text{
+    text-align: left;
+    color:#121212;
+}
+.col-2{
+    background: #FF59591A;
+}
+.col-3{
+    background: #FFF4D6;
+
+}
