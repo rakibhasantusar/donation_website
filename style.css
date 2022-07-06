@@ -1,3 +1,45 @@
+body{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
 h1{
-    color: green;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    text-align: center;
+    color: #FFFFFF;
+}
+p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    
+}
+.head_p{
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+.header-section{
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0)100%),url(images/header-donate.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 230px 0px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    text-decoration: none;
+    background-color:#FF5959;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-radius: 5px;  
 }
