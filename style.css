@@ -71,7 +71,7 @@ p{
 }
 /* second design section */
 .second-section{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 .second_child_2{
     display: flex;
@@ -110,10 +110,23 @@ input {
 }
 .btn_c{
     margin-left: 40%;
+    margin-top: 10px;
+    margin-top: 20px;
+    font-size: 18px;
 }
+.form-2nd{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    font-size: 18px;
+    padding-bottom: 14px;
+    margin-top: 40px;
+}
+
 /*Third section design */
+
 .Third-section{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 .third_child_2{
     margin-top: 40px;
@@ -142,7 +155,7 @@ input {
 }
 /* 4th section design */
 .Fourth-section{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 .fourth-child-1{
     margin-bottom: 50px;
@@ -161,7 +174,7 @@ input {
 }
 /* 5th section */
 .fifth-section{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 .fifth-child-2{
     display: flex;
@@ -192,7 +205,7 @@ input {
 /* footer */
 }
 footer{
-    margin-top: 100px;
+    margin-top: 150px;
     background-color: #121212;
     padding: 10px 0;
 }
