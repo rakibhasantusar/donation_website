@@ -140,3 +140,19 @@ input {
     background: #FFF4D6;
 
 }
+/* 4th section design */
+.Fourth-section{
+    margin-top: 100px;
+}
+.fourth-child-2{
+    display: flex;
+    justify-content: center;
+    background-image: url(images/Group-88.png);
+}
+.fouth-chil-img{
+    box-sizing: border-box;
+    width: 400px;
+    height: 350px;
+    border-radius: 5%;
+    margin: 3px;
+}
