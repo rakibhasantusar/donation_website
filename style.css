@@ -3,6 +3,7 @@ body{
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+/* font detail */
 h1{
     font-family: 'Inter';
     font-style: normal;
@@ -11,6 +12,24 @@ h1{
     line-height: 79px;
     text-align: center;
     color: #FFFFFF;
+}
+h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+    color: #121212;
+}
+h3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #707070;
 }
 p{
     font-family: 'Poppins';
@@ -25,6 +44,12 @@ p{
     color: #FFFFFF;
     margin-bottom: 50px;
 }
+.all_p{
+    color: #707070;
+}
+
+/* Head Design section */
+
 .header-section{
     background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0)100%),url(images/header-donate.png);
     background-repeat: no-repeat;
@@ -41,5 +66,49 @@ p{
     color: #FFFFFF;
     font-weight: bold;
     padding: 10px 30px;
-    border-radius: 5px;  
+    border-radius: 5px;
+    border: none;  
 }
+/* second design section */
+.second-section{
+    margin-top: 100px;
+}
+.second_child_2{
+    display: flex;
+    justify-content: center;
+}
+.ammount{
+    margin:10px;
+}
+#another-bg{
+    box-sizing: border-box;
+    width: 136px;
+    height: 123px;
+    background: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+.ammount-child{
+    box-sizing: border-box;
+    width: 135px;
+    height: 123px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding-top: 40px;  
+}
+
+input {
+    width: 100%;
+    border-bottom: 1px solid gray;
+    display: inline-block;
+    text-align: center;
+}
+.form_1{
+    width: 40%;
+    display:inline-block;
+}
+.btn_c{
+    margin-left: 40%;
+}
+/*Third section design */
