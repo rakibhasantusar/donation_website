@@ -144,6 +144,9 @@ input {
 .Fourth-section{
     margin-top: 100px;
 }
+.fourth-child-1{
+    margin-bottom: 50px;
+}
 .fourth-child-2{
     display: flex;
     justify-content: center;
@@ -155,4 +158,48 @@ input {
     height: 350px;
     border-radius: 5%;
     margin: 3px;
+}
+/* 5th section */
+.fifth-section{
+    margin-top: 100px;
+}
+.fifth-child-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+.fifth-input{
+    font-size: 24px;
+    text-align: left;
+    color: #FAFAFA;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #cacaca;
+    width: 65%;
+    height: 24px;
+    padding-bottom: 9px;
+}
+.fifth-div{
+    padding: 50px 200px;
+    background-color: #FFF4D6;
+}
+.fifth-btn{
+    margin-left: -4%;
+}
+.fifth-form{
+/* footer */
+}
+footer{
+    margin-top: 100px;
+    background-color: #121212;
+    padding: 10px 0;
+}
+.footer-h{
+    color: #FF5959;
+}
+.foot_p{
+    color: #FAFAFA;
+    padding-bottom: 30px;
 }
